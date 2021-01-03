@@ -6,6 +6,10 @@ In this project, we determine if setting up a business would be profitable 15 ye
 
 ![Screenshot (43)](https://user-images.githubusercontent.com/65482013/103472748-17e26900-4db7-11eb-8ce0-cf0141c7110f.png)
 
+To calculate the Cash Flow (CF) for a particular year, we will use the formula-
+
+CF= (1-t)(S-C) + D - C<sub>TDC</sub> - C<sub>WC</sub> - C<sub>land</sub> - C<sub>startup</sub> - C<sub>royalty</sub> + V<sub>salvage</sub> (+ C<sub>WC</sub>)
+
 Using Monte Carlo simulation, we iterate through a fixed number of scenarios, to determine what percent of scenarios result in a positive NPV (Net Present Value)-
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/65482013/103472861-76f4ad80-4db8-11eb-8674-c7831bc374b2.png)
