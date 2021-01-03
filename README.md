@@ -1,6 +1,6 @@
 # Profitability-Analysis-using-Monte-Carlo-simulation
 
-**To access this project you need to access this Excel file** -> [Click Here!](https://github.com/pranavtumkur/Profitability-Analysis-using-Monte-Carlo-simulation/blob/main/Profitability-Analysis-Tumkur-Monte%20Carlo.xlsm)
+**To access this project workbook you need to** -> [Click Here!](https://github.com/pranavtumkur/Profitability-Analysis-using-Monte-Carlo-simulation/blob/main/Profitability-Analysis-Tumkur-Monte%20Carlo.xlsm)
 
 In this project, we determine if setting up a business would be profitable 15 years down the line, subject to 9 inputs, each associated with a fixed uncertainty. Following are the inputs which we consider and their specifications-
 
